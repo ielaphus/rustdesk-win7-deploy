@@ -1,0 +1,15 @@
+# secrets and runtime output, never commit
+tg.json
+last.log
+nodeout.log
+tools/cursor.log
+*.log
+
+# binaries placed by the user
+rustdesk-*-x86_64.exe
+rustdesk.exe
+node.exe
+
+# windows junk
+Thumbs.db
+desktop.ini
